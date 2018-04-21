@@ -16,7 +16,7 @@
 
 void menu(void);//菜单
 
-void exit_system(void);//退出系统
+void exit_system(void);//退出
 
 struct staff * creat_link(void);//创建链表
 
